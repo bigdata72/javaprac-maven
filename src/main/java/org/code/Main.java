@@ -11,5 +11,6 @@ public class Main {
 		
 		LOGGER.info("hello there .. with maven build ");
 		LOGGER.debug("With debug");
+		LOGGER.debug("some more logging");
 	}
 }
